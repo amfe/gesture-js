@@ -5,8 +5,6 @@
 
 project description
 
-## [Visiting Site](http://amfe.github.io/amfe-gesture/)
-
 ## [Discuss & Issues](https://github.com/amfe/amfe-gesture/issues)
 
 ## License
