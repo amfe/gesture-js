@@ -5,7 +5,9 @@
 
 gesture-js helps to recognize multiple screen touch gestures like pan, swipe, tap and longpress etc.
 
-## [Discuss & Issues](https://github.com/amfe/amfe-gesture/issues)
+## [Visiting Site](http://amfe.github.io/gesture-js/)
+
+## [Discuss & Issues](https://github.com/amfe/gesture-js/issues)
 
 ## License
 
