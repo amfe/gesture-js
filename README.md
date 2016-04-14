@@ -1,9 +1,9 @@
-# amfe-gesture
+# gesture-js
 
-![npm version](http://img.shields.io/npm/v/amfe-gesture.svg)
-![ci status](https://api.travis-ci.org/amfe/amfe-gesture.svg?branch=master)
+![npm version](http://img.shields.io/npm/v/gesture-js.svg)
+![ci status](https://api.travis-ci.org/amfe/gesture-js.svg?branch=master)
 
-project description
+gesture-js helps to recognize multiple screen touch gestures like pan, swipe, tap and longpress etc.
 
 ## [Discuss & Issues](https://github.com/amfe/amfe-gesture/issues)
 

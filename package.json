@@ -1,10 +1,10 @@
 {
-  "name": "amfe-gesture",
-  "description": "project description",
+  "name": "gesture-js",
+  "description": "gesture-js helps to recognize multiple screen touch gestures like pan, swipe, tap and longpress etc.",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:amfe/amfe-gesture.git"
+    "url": "git@github.com:amfe/gesture-js.git"
   },
   "author": [
     {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "keywords": [
     "lib",
-    "amfe",
+    "gesture",
     "javascript"
   ],
   "scripts": {

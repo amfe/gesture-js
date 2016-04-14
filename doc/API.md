@@ -1,33 +1,32 @@
 # The API
 
 ```javascript
-import Module from 'amfe-gesture';
+import 'gesture-js'
 ```
 
-## Constrcutor
+## Events
 
-### new Class(v)
+#### major events supported:
 
-create a object
+* panstart
+* panmove
+* panend
+* swipe
+* longpress
 
-```jsdoc
-@param {string} v - a version
-```
+#### extra events supported:
 
-## Methods
+* dualtouchstart
+* dualtouch
+* dualtouchend
+* verticalpanstart
+* horizontalpanstart
+* verticalpanmove
+* horizontalpanmove
+* tap
+* doubletap
+* verticalswipe
+* horizontalswipe
+* pressend
 
-## getVersion()
 
-return a version
-
-```jsdoc
-@return {string} a version
-```
-
-## Properties
-
-...
-
-## Class Methods
-
-...

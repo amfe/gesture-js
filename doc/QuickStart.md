@@ -3,19 +3,21 @@
 ## Install
 
 ```shell
-tnpm install amfe-gesture --save
+npm install gesture-js --save
 ```
 
 ## Usage
 
 ```javascript
-import SomeModule from 'amfe-gesture'
+import 'gesture-js'
 ```
 
 ## Samples
 
-Initializing:
+bind `tap` event:
 
 ```javascript
-new SomeModule()
+div.addEventListener('tap', function(e) {
+	alert('tap!')
+})
 ```
